@@ -1,5 +1,9 @@
 # Git Email Guard
 
+[![CI](https://github.com/ybouhjira/git-email-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/ybouhjira/git-email-guard/actions/workflows/ci.yml)
+
+![Demo](demo.gif)
+
 ```
  ██████╗ ██╗████████╗    ███████╗███╗   ███╗ █████╗ ██╗██╗
 ██╔════╝ ██║╚══██╔══╝    ██╔════╝████╗ ████║██╔══██╗██║██║
